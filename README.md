@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Mechanical Engineering undergraduate, currently in my 2nd year of study at IIT Guwahati. 
+
 <!--
 **Gyaniultimate/Gyaniultimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
