@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-I am a Mechanical Engineering undergraduate, currently in my 2nd year of study at IIT Guwahati. 
+:smiley: I am a Mechanical Engineering undergraduate, currently in my 2nd year of study at IIT Guwahati. 
 
-<!--
-**Gyaniultimate/Gyaniultimate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in mathematics :heartpulse: , computer science, mechanical engineering and physics. 
+:link:  https://gyaniultimate.github.io/ 
 
-Here are some ideas to get you started:
+Learning java, firebase for android development, scraping using nodejs , database management, and design and analysis of algorithms. 
 
-- 🔭 I’m currently working on :  a) Group alarm app CLASSIS which provides 2 major features to the user 1. a common alarm for members in group 2 . Displys snooze status of members. 
-                                 b)   An interview preparation tracker project in nodejs. 
+![image](https://user-images.githubusercontent.com/62829009/104836249-9b7d7900-58d2-11eb-8426-ff8aaf182b78.png)
 
-- 🌱 I’m currently learning  :  1. java for app development in android 2. Firebase 3 . scraping techniques in nodejs 
 
+
+ 
+ 
 
 
 
