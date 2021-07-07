@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:smiley: I am a Mechanical Engineering undergraduate, currently in my 2nd year of study at IIT Guwahati. 
+:smiley: I am a Mechanical Engineering undergraduate, currently in my 3rd year of study at IIT Guwahati. 
 
 Interested in mathematics :heartpulse: , computer science, mechanical engineering and physics. 
 :link:  https://gyaniultimate.github.io/ 
